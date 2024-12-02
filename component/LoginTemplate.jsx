@@ -6,8 +6,6 @@ import React from "react";
 const LoginTemplate = () => {
   return (
     <form>
- 
-
       <button
         onClick={async (e) => {
           e.preventDefault();
